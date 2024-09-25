@@ -17,6 +17,9 @@
 <br>
 
 ## Connect with me ☕ :
+
+![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,gmail)[![@anushka_wije](https://img.icons8.com/fluency/48/000000/phone-disconnected.png  "@anushka_wije")](51940050831)
+
 <p>
 <a href="https://www.linkedin.com/in/alexander-rimachi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
