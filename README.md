@@ -18,8 +18,6 @@
 
 ## Connect with me ☕ :
 
-<br>
-
 <a href="https://www.linkedin.com/in/alexander-rimachi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
 </a>
@@ -32,9 +30,6 @@
 <a href="mailto:anushkaduwolka123@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
 </a>
-
-
-<br>
 
 ## What I am Good at 🧑‍💻 :
 
