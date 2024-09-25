@@ -18,7 +18,7 @@
 
 ## Connect with me ☕ :
 
-![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,gmail)[![@anushka_wije](https://img.icons8.com/fluency/48/000000/phone-disconnected.png  "@anushka_wije")](51940050831)
+![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,gmail&theme=light)[![@anushka_wije](https://img.icons8.com/fluency/48/000000/phone-disconnected.png  "@anushka_wije")](51940050831)
 
 ## What I am Good at 🧑‍💻 :
 
