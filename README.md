@@ -20,21 +20,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,gmail)[![@anushka_wije](https://img.icons8.com/fluency/48/000000/phone-disconnected.png  "@anushka_wije")](51940050831)
 
-<p>
-<a href="https://www.linkedin.com/in/alexander-rimachi/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/anushka_wije" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter">
-</a>
-<a href="tel:0711971313" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
-</a>
-<a href="mailto:anushkaduwolka123@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
-</a>
-</p>
-
 ## What I am Good at 🧑‍💻 :
 
 <br>
