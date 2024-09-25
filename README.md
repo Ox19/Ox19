@@ -20,13 +20,10 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/alexander-rimachi/ "LinkedIn" target="_blank") 
-
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije "Twitter" target="_blank") 
-
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313 "Phone" target="_blank") 
-
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:anushkaduwolka123@gmail.com "Email" target="_blank")
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/alexander-rimachi/){:target="_blank"}
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/anushka_wije){:target="_blank"}
+[![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:0711971313){:target="_blank"}
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:anushkaduwolka123@gmail.com){:target="_blank"}
 
 <br>
 
