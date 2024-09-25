@@ -20,10 +20,19 @@
 
 <br>
 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/alexander-rimachi/){:target="_blank"}
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/anushka_wije){:target="_blank"}
-[![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:0711971313){:target="_blank"}
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:anushkaduwolka123@gmail.com){:target="_blank"}
+<a href="https://www.linkedin.com/in/alexander-rimachi/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/anushka_wije" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter">
+</a>
+<a href="tel:0711971313" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
+</a>
+<a href="mailto:anushkaduwolka123@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
+</a>
+
 
 <br>
 
