@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Software Developer** at [SOAINT]([https://.com/](https://soaint.com/))
+- 🏢 I am currently working as a **DevOps Engineer** at [SOAINT]([https://.com/](https://soaint.com/))
 - 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
 - 🎓 Studies for Software Engineering at [Peruvian University of Applied Sciences(UPC)](https://www.upc.edu.pe/)
 - 🎓 Studies for Software Developer at [National Industrial Work Training Service(SENATI)](https://www.senati.edu.pe/)
